@@ -12,3 +12,8 @@ https://spring.io/guides/tutorials/spring-boot-kotlin/
 
 mvn spring-boot:run
 
+### Go to 
+
+localhost:8080
+
+
